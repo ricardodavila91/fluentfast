@@ -123,6 +123,27 @@ Legenda: **A** = Accountable, **R** = Responsible, **C** = Consulted, **I** = In
 
 ---
 
+
+## Agentes Criados
+
+Os agentes operacionais foram materializados no diretório [`agentes-auditoria/`](agentes-auditoria/README.md), com um arquivo por agente contendo missão, domínios, entradas, testes mínimos, saídas esperadas, prompt mestre e sinais de alerta.
+
+Arquivos principais:
+
+- [`00-chief-audit-agent.md`](agentes-auditoria/00-chief-audit-agent.md)
+- [`01-ssma-compliance-regulatorio.md`](agentes-auditoria/01-ssma-compliance-regulatorio.md)
+- [`02-qualidade-integridade-laboratorial.md`](agentes-auditoria/02-qualidade-integridade-laboratorial.md)
+- [`03-integridade-volumetrica-operacao.md`](agentes-auditoria/03-integridade-volumetrica-operacao.md)
+- [`04-financeiro-faturamento-sap.md`](agentes-auditoria/04-financeiro-faturamento-sap.md)
+- [`05-manutencao-integridade-fisica.md`](agentes-auditoria/05-manutencao-integridade-fisica.md)
+- [`06-antifraude-operacional.md`](agentes-auditoria/06-antifraude-operacional.md)
+- [`07-analytics-evidencias.md`](agentes-auditoria/07-analytics-evidencias.md)
+- [`08-gestao-plano-follow-up.md`](agentes-auditoria/08-gestao-plano-follow-up.md)
+- [`09-qa-revisor-tecnico.md`](agentes-auditoria/09-qa-revisor-tecnico.md)
+- [`10-relatorios-executivos.md`](agentes-auditoria/10-relatorios-executivos.md)
+
+---
+
 ## Conclusão
 
 Sua proposta já está em patamar de maturidade avançada. Com os ajustes de follow-up dedicado, scoring padronizado, trilha mínima de evidências e catálogo antifraude, a estrutura passa de “boa prática” para **modelo replicável de alta confiabilidade**, com potencial real de escala e automação.
